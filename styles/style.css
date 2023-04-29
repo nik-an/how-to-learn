@@ -2,14 +2,14 @@
   min-width: 1100px;
   max-width: 1600px;
   margin: 0 auto;
-  font-family: 'Helvetica Neue', Arial, sans-serif;
+  font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
 .header {
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  background:  #f2f2f2;
+  background: #f2f2f2;
   display: flex;
   flex-direction: column;
   padding-left: 64px;
@@ -136,7 +136,7 @@
   padding-bottom: 60px;
   line-height: 34px;
   font-size: 24px;
-  font-weight:normal;
+  font-weight: normal;
 }
 
 .table {
@@ -153,7 +153,6 @@
 }
 
 .table__heading {
-  font-weight: bold;
   display: flex;
   margin: 0 0 20px;
   line-height: 1.15;
@@ -217,7 +216,7 @@
 }
 
 .kaufman {
-  background-color:  #1f1f1f;
+  background-color: #1f1f1f;
   color: white;
   position: relative;
   overflow: hidden;
@@ -235,7 +234,7 @@
   margin-bottom: 90px;
   position: relative;
   z-index: 1;
- }
+}
 
 .cell_theme_dark {
   width: 200px;
@@ -314,7 +313,6 @@
   text-decoration: none;
   list-style: none;
   padding: 0;
-  margin: 0;
 }
 
 .footer__social-link {
