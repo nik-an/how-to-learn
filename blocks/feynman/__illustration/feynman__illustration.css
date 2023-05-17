@@ -1,0 +1,9 @@
+.feynman__illustration {
+  background-image: url("../../../images/feynman.png");
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 867px;
+  height: 637px;
+  z-index: 1;
+}
